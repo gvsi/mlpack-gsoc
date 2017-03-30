@@ -24,7 +24,7 @@ The proposed project has three main goals:
 Here listed are some of the motivations behind this proposal:
 - At the moment, there is **no other library** that provides a comprehensive and native framework for Generative Adversarial Networks.
 - There is a **growing number of applications** that are being researched and implemented. Having a centralized, adaptable and extensible framework for developing GANs would be a great tool for AI/ML researchers and enthusiasts.
-- There are popular Tensorflow and Pytorch implementations of specific applications (see #applications), but most GAN components (i.e. Generators, Discriminators and respective training processes) could and should be **standardized** in a framework that can be easily extended to these applications, facilitating their development end extension.
+- There are popular Tensorflow and Pytorch implementations of specific applications, but most GAN components (i.e. Generators, Discriminators and respective training processes) could and should be **standardized** in a framework that can be easily extended to these applications, facilitating their development end extension.
 
 ## Background information on GANs
 Generative Adversarial Networks have recently become a very hot topic machine learning. While there is always some form of hype associated with new techniques in machine learning, GANs have shown exceptional results and pioneering applications in unsupervised learning. Backed by an groundbreaking paper by Ian Goodfellow, GANs have been recognized by the general ML community as a potentially upcoming breakthrough in the field. Yann LeCun, Facebook’s Director of AI Research, calls them the most important recent idea in machine learning. [link]
