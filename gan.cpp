@@ -12,8 +12,6 @@ using namespace mlpack::ann;
 
 int main()
 {
-  arma::mat dataset(4, 5000);
-
   // Original data
   GaussianDistribution g1("4", "1.25");
 
